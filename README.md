@@ -21,7 +21,7 @@ This is also capable of simulating cavity STIRAP with the very final state being
 Examples of demonstration of this class can be found in this [Jupyter notebook](STIRAP.ipynb). The method used is simple discretized matrix exponentiation for solving the Schrodinger's equation. The analysis included in the report was generated using codes present in this [Jupyter notebook](Rough/3-level-unqeual-peak-analysis.ipynb).
 
 ## Detailed report
-The detailed report can be found [here][Weizmann_Intern_Report.pdf].
+The detailed report can be found [here](Weizmann_Intern_Report.pdf).
 
 ## Contributions
 * [Prof. Barak Dayan](https://www.weizmann.ac.il/chembiophys/dayan/) (Supervisor)
